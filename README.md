@@ -1,13 +1,12 @@
-# phalcon-rest
-
-```
-hub clone kobabasu/phalcon-rest mvc
-```
-
+# phalcon-mvc
 document rootにmvcディレクトリに展開することを想定し設定  
 もしmvcを別の名前にする際には以下２ヶ所を変更
 * /app/config/config.php内のbaseurl
 * /.htaccess内のパス
+
+```
+hub clone kobabasu/phalcon-mvc mvc
+```
 
 ## vagrant
 1. `hub clone cores/cores-vagrant coreos`
