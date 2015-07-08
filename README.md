@@ -41,7 +41,7 @@ mysql -h 0.0.0.0 --port 3306 -u[username] -p[password] -d [dbname] < sql api/sql
 ```
 
 ## phalcon
-* voltは自動でコンパイルされるため普通にソースを変更すれば問題ない
+voltは自動でコンパイルされるため普通にソースを変更すれば問題ない
 
 1. 必要があればdevelopブランチを使う  
 1. mvcディレクトリの名前を変更した場合には以下２ヶ所を変更
