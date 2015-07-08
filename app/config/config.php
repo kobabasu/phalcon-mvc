@@ -2,7 +2,7 @@
 use Phalcon\Config;
 
 return new Config(array(
-  'baseurl' => '/phalcon/',
+  'baseurl' => '/mvc/public/',
 
   'app' => array(
     'controllersDir' => '../app/controllers/',
